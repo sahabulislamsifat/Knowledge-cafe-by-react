@@ -12,7 +12,7 @@ function App() {
     setBookmarks(newBookmarks);
   };
 
-  const [readingTime, setReadingTime] = useState([]);
+  const [readingTime, setReadingTime] = useState(0);
 
   const handleMarkAsRead = (time) => {
     const newReadingTime = readingTime + time;
