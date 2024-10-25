@@ -14,15 +14,19 @@ const Blog = ({ blog, handleAddToBookmarks, handleMarkAsRead }) => {
   return (
     <div className="mb-20">
       <img
-        className="w-full"
+        className="mx-auto w-96 lg:w-full"
         src={cover}
         alt={`Cover picture of the title ${title}`}
       />
-      <div className="flex my-5 items-center justify-between">
+      <div className="flex px-5 my-5 items-center justify-between">
         <div className="flex">
-          <img className="w-16 rounded-full" src={author_image} alt="" />
+          <img
+            className="w-10 lg:w-16 rounded-full"
+            src={author_image}
+            alt=""
+          />
           <div className="ml-6">
-            <h3 className="text-2xl">{author}</h3>
+            <h3 className="lg:text-2xl">{author}</h3>
             <p>{posted_date}</p>
           </div>
         </div>
@@ -36,20 +40,22 @@ const Blog = ({ blog, handleAddToBookmarks, handleMarkAsRead }) => {
           </button>
         </div>
       </div>
-      <h2 className="text-4xl mb-1">{title}</h2>
-      <p>
-        {hashtags.map((hash, idx) => (
-          <span key={idx}>
-            <a href="">#{hash}</a>
-          </span>
-        ))}
-      </p>
-      <button
-        onClick={() => handleMarkAsRead(reading_time)}
-        className="text-purple-500 underline font-semibold"
-      >
-        Mark As Read
-      </button>
+      <div className="px-5">
+        <h2 className="text-2xl lg:text-4xl mb-1">{title}</h2>
+        <p>
+          {hashtags.map((hash, idx) => (
+            <span key={idx}>
+              <a href="">#{hash}</a>
+            </span>
+          ))}
+        </p>
+        <button
+          onClick={() => handleMarkAsRead(reading_time)}
+          className="text-purple-500 underline font-semibold"
+        >
+          Mark As Read
+        </button>
+      </div>
     </div>
   );
 };

@@ -2,7 +2,7 @@
 const Header = () => {
   return (
     <header className="bg-gray-50 px-5 py-2 justify-between  border-b-2 flex items-center">
-      <h1 className="font-bold text-4xl">React Knowledge Cafe</h1>
+      <h1 className="text-xl lg:font-bold lg:text-4xl">React Knowledge Cafe</h1>
       <a href="">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -10,7 +10,7 @@ const Header = () => {
           viewBox="0 0 24 24"
           strokeWidth="1.5"
           stroke="currentColor"
-          className="size-14"
+          className="size-5 lg:size-14"
         >
           <path
             strokeLinecap="round"
