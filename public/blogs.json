@@ -1,0 +1,142 @@
+[
+    {
+        "id": 101,
+        "cover": "https://i.ibb.co.com/Z64QcQw/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "Exploring the Future of AI",
+        "author": "Jane Doe",
+        "author_image": "https://i.ibb.co.com/sV0mDwF/IMG20220805185406.jpg",
+        "posted_date": "2024-09-15",
+        "reading_time": 5,
+        "hashtags": [
+            "#AI",
+            "#Technology",
+            "#Future"
+        ]
+    },
+    {
+        "id": 102,
+        "cover": "https://i.ibb.co.com/Z64QcQw/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "The Ultimate Guide to Web Development",
+        "author": "John Smith",
+        "author_image": "https://i.ibb.co.com/GvbGMV1/IMG-20240201-113133.jpg",
+        "posted_date": "2024-10-01",
+        "reading_time": 7,
+        "hashtags": [
+            "#WebDevelopment",
+            "#Coding",
+            "#JavaScript"
+        ]
+    },
+    {
+        "id": 103,
+        "cover": "https://i.ibb.co.com/Z64QcQw/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "Healthy Eating on a Budget",
+        "author": "Alice Brown",
+        "author_image": "https://i.ibb.co.com/sV0mDwF/IMG20220805185406.jpg",
+        "posted_date": "2024-08-20",
+        "reading_time": 6,
+        "hashtags": [
+            "#Health",
+            "#Nutrition",
+            "#BudgetFriendly"
+        ]
+    },
+    {
+        "id": 104,
+        "cover": "https://i.ibb.co.com/Z64QcQw/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "Travel Hacks for the Modern Explorer",
+        "author": "Bob Davis",
+        "author_image": "https://i.ibb.co.com/GvbGMV1/IMG-20240201-113133.jpg",
+        "posted_date": "2024-09-10",
+        "reading_time": 4,
+        "hashtags": [
+            "#Travel",
+            "#Tips",
+            "#Adventure"
+        ]
+    },
+    {
+        "id": 105,
+        "cover": "https://i.ibb.co.com/Z64QcQw/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "Mastering the Art of Photography",
+        "author": "Clara Evans",
+        "author_image": "https://i.ibb.co.com/sV0mDwF/IMG20220805185406.jpg",
+        "posted_date": "2024-07-25",
+        "reading_time": 8,
+        "hashtags": [
+            "#Photography",
+            "#Art",
+            "#Skills"
+        ]
+    },
+    {
+        "id": 106,
+        "cover": "https://i.ibb.co.com/Z64QcQw/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "Understanding Cryptocurrency Investments",
+        "author": "David Frank",
+        "author_image": "https://i.ibb.co.com/sV0mDwF/IMG20220805185406.jpg",
+        "posted_date": "2024-10-20",
+        "reading_time": 10,
+        "hashtags": [
+            "#Cryptocurrency",
+            "#Finance",
+            "#Investments"
+        ]
+    },
+    {
+        "id": 107,
+        "cover": "https://i.ibb.co.com/Z64QcQw/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "DIY Home Decor Ideas",
+        "author": "Ella Green",
+        "author_image": "https://i.ibb.co.com/sV0mDwF/IMG20220805185406.jpg",
+        "posted_date": "2024-08-05",
+        "reading_time": 3,
+        "hashtags": [
+            "#DIY",
+            "#HomeDecor",
+            "#Crafts"
+        ]
+    },
+    {
+        "id": 108,
+        "cover": "https://i.ibb.co.com/Z64QcQw/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "The Evolution of Video Games",
+        "author": "Frank Harris",
+        "author_image": "https://i.ibb.co.com/GvbGMV1/IMG-20240201-113133.jpg",
+        "posted_date": "2024-09-25",
+        "reading_time": 9,
+        "hashtags": [
+            "#Gaming",
+            "#History",
+            "#Entertainment"
+        ]
+    },
+    {
+        "id": 109,
+        "cover": "https://i.ibb.co.com/Z64QcQw/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "The Secret to Great Leadership",
+        "author": "Grace Lee",
+        "author_image": "https://i.ibb.co.com/GvbGMV1/IMG-20240201-113133.jpg",
+        "posted_date": "2024-07-30",
+        "reading_time": 7,
+        "hashtags": [
+            "#Leadership",
+            "#Management",
+            "#Success"
+        ]
+    },
+    {
+        "id": 110,
+        "cover": "https://i.ibb.co.com/Z64QcQw/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "Top Fitness Trends in 2024",
+        "author": "Henry Moore",
+        "author_image": "https://i.ibb.co.com/sV0mDwF/IMG20220805185406.jpg",
+        "posted_date": "2024-10-05",
+        "reading_time": 6,
+        "hashtags": [
+            "#Fitness",
+            "#Wellness",
+            "#Trends"
+        ]
+    }
+]
